@@ -16,10 +16,17 @@ Agile methodologies were used. Particularly Scrum and Kanban. Below is the workb
 
 ## Product Screenshots
 After 1 week working on the project, here is the final product: </br>
-![Screenshot](screenshots/LandingPage.png "Page you load into")</br>
+#### Load Page
+![Screenshot](screenshots/LandingPage.png "Page you load into")
+#### Registration
 ![Screenshot](screenshots/RegistrationPage.png "Registration Page")</br>
+#### Login
 ![Screenshot](screenshots/LoginPage.png "Login Page")</br>
+#### Calendar
 ![Screenshot](screenshots/CalendarPage.png "Calendar Page")</br>
+#### Activities
 ![Screenshot](screenshots/ActivitiesList.png "Activities List")</br>
+#### Groups
 ![Screenshot](screenshots/GroupsPage.png "Groups Page")</br>
+#### Profile
 ![Screenshot](screenshots/ProfilePage.png "Profile Page")
